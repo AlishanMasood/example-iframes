@@ -13,7 +13,7 @@ To run this project locally:
 1. Clone the repository.
 2. If you are deploying to a URL other than `localhost`, replace the placeholder `'your_license_key_here'` in `deepar.html` with your actual DeepAR license key.
 3. Start a local web server in the project directory.
-4. Open the `friendly-iframe.html` and `cross-origin-iframe.html` files in your web browser through the local web server.
+4. Open the `index.html` (containing the friendly iframe) and `cross-origin-iframe.html` files in your web browser through the local web server.
 
 ## Prerequisites
 
